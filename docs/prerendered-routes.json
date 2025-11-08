@@ -1,5 +1,7 @@
 {
   "routes": {
-    "/my-angular-new2": {}
+    "/demo_app": {},
+    "/demo_app/dashboard": {},
+    "/demo_app/login": {}
   }
 }

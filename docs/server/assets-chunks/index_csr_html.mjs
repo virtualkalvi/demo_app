@@ -3,12 +3,12 @@ export default `<!doctype html>
 <head>
   <meta charset="utf-8">
   <title>MyApp</title>
-  <base href="https://virtualkalvi.github.io/my-angular-new2/">
+  <base href="/demo_app/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
 <link rel="stylesheet" href="styles-5INURTSO.css"></head>
 <body ngcm="">
   <app-root></app-root>
-<script src="main-D3ASDT3Y.js" type="module"></script></body>
+<script src="main-6DK6RQX3.js" type="module"></script></body>
 </html>
 `;

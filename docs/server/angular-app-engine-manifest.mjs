@@ -1,6 +1,6 @@
 
 export default {
-  basePath: 'https://virtualkalvi.github.io/my-angular-new2',
+  basePath: '/demo_app',
   supportedLocales: {
   "en-US": ""
 },
